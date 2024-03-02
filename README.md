@@ -23,3 +23,11 @@ Please make sure what you provide includes:
 Language is not an issue - but please provide an English translation.
 
 Happy job seeking!
+
+## Sharpen your eyes!
+
+- Teacup Tech Systems
+  - [Full Stack Engineer](https://github.com/FunnyJobPoster2022/FunnyJobPosters/blob/main/Teacup%20Tech%20Systems/Full%20Stack%20Engineer)
+    - Think about a candidate who have 10+ years' exp in `J2EE`, `API design`, `IBM WebSphere`, `Spring`; 10+ years with `React`, `Angular`, `CSS`, `Agile`, `RSA`; 10+ years of `Oracle`, Databae, `DevOps`, `Mobile`
+    - Most important: A candidate with "Public Service Experience in Canada".
+    - Don't forget they are all **MUST-HAVE**.
