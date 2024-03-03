@@ -1,12 +1,15 @@
-Link: https://www.linkedin.com/jobs/view/3842191943/
-Company: [Teacup Tech Systems](https://www.linkedin.com/company/teacuptechsystems/life/b95e337d-1e97-46f7-b758-25e8c2b5236a/)
-Why Funny?
+**Link:** https://www.linkedin.com/jobs/view/3842191943/
+
+**Company:** [Teacup Tech Systems](https://www.linkedin.com/company/teacuptechsystems/life/b95e337d-1e97-46f7-b758-25e8c2b5236a/)
+
+**Why Funny?**
 Think about a candidate who have 10+ years' exp in `J2EE`, `API design`, `IBM WebSphere`, `Spring`; 10+ years with `React`, `Angular`, `CSS`, `Agile`, `RSA`; 10+ years of `Oracle`, Databae, `DevOps`, `Mobile`
 Most important: A candidate with "Public Service Experience in Canada".
 Don't forget they are all **MUST-HAVE**.
 ROFL :)
 
-JD:
+**JD:**
+```
 Please apply ONLY if you have Public Service Experience in Canada
 
 Experience and Skill Set Requirements:
@@ -32,3 +35,4 @@ UI/UX experience:
 AODA experience:
 • 10+ years of experience with developing J2EE application in compliance with PCI and WCAG 2.0 Standards, and bringing applications to AODA Compliancy (must have)
 • Experience with JAWS, WAI-ARIA, HTML 5
+```
