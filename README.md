@@ -8,6 +8,9 @@ These recruiters should be made aware that they should be held accountable for t
 
 Any way, have fun!
 
+![1024x1024 (1)](https://github.com/FunnyJobPoster2022/FunnyJobPosters/assets/161956454/9b126188-1f07-4bf5-b17b-074e1ccbb9f4)
+
+
 ## How to post?
 
 Send an email to funnyjobposter@gmail.com, or submit a PR.
